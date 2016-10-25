@@ -90,10 +90,10 @@ biedronka:
 * ser 1.1
 Wniosek: W sklepie "Lidl" najlepiej kupić chleb, masło i jogurt, a w "Biedronka" ser.
 
-# Zadanie 1:
-# InputReader.new(input).market.sort_shop_by_prices cart
-# Zadanie 2:
-# InputReader.new(input).market.find_cheapest_products cart
-# Zadanie 3:
-# InputReader.new(input).market.find_cheapest_products_in_n_shops_only cart, n
+* Zadanie 1:
+    InputReader.new(input).market.sort_shop_by_prices cart
+* Zadanie 2:
+    InputReader.new(input).market.find_cheapest_products cart
+* Zadanie 3:
+    InputReader.new(input).market.find_cheapest_products_in_n_shops_only cart, n
 
