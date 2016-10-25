@@ -1,11 +1,3 @@
-# Wybralem, troche przez to, ze nie doczytalem, zadania 1 i 2.
-# Zadanie 1:
-# InputReader.new(input).market.sort_shop_by_prices cart
-# Zadanie 2:
-# InputReader.new(input).market.find_cheapest_products cart
-# Zadanie 3:
-# InputReader.new(input).market.find_cheapest_products_in_n_shops_only cart, n
-
 # Product has information about product itself, its price and shop
 # with this price
 class Product
